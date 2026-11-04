@@ -2,7 +2,7 @@ class Sagitta < Formula
   desc "Small interpreted programming language written in C++17"
   homepage "https://github.com/heavyprop/sagitta"
   url "https://github.com/heavyprop/sagitta/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "612ad430bbace4213945c3da36f50f25364e37f980e31b0460df8f5c4d4e91f1"
+  sha256 "6304e6292340b3a0c49024463c4273b233ceeaa0570a015480e545004ca8bdaa"
 
   def install
     # build with the Makefile, using Homebrew's C++ compiler
